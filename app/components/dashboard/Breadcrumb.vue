@@ -29,7 +29,7 @@ const { title } = useAppConfig()
       </BreadcrumbItem>
       <BreadcrumbSeparator />
       <BreadcrumbItem>
-        <BreadcrumbPage>sssss</BreadcrumbPage>
+        <BreadcrumbPage>ssssss</BreadcrumbPage>
       </BreadcrumbItem>
     </BreadcrumbList>
 
